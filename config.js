@@ -27,9 +27,9 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
-  music: "./music/hbd.mpeg",      // Place your music in the music/ folder
+  name: "Maryuma",
+  photo: "./img/IMG-20260516-WA0060.jpg",       // Place your photo in the img/ folder
+  music: "./music/maryamringtone.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "I really luv your name btw!",
     },
     {
       type: "countdown",
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday to youu!! I wanna spend every birthday with you till i die!",
       buttonText: "Send",
     },
     {
@@ -80,14 +80,14 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "You are Special(Specially Abled) <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "I love you Maryumaa, mwahhh.",
+      author: "JJ",
     },
     {
       type: "stars",
